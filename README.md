@@ -6,7 +6,7 @@ De repo waar ik al mijn foto's van de sketchnotes en artikelen voor de minor web
 
 1. [Sketchnotes](https://github.com/jamalvr/weekly-nerd/blob/master/sketchnotes/1-sketchnotes.md)
 2. [GitHub](https://github.com/jamalvr/weekly-nerd/blob/master/sketchnotes/2-github.md)
-3. [Peter Paul Koch](https://github.com/jamalvr/weekly-nerd/blob/master/sketchnotes/3-peter-paul-koch)
+3. [Peter Paul Koch](https://github.com/jamalvr/weekly-nerd/blob/master/sketchnotes/3-peter-paul-koch.md)
 4. [Voorhoede](https://github.com/jamalvr/weekly-nerd/blob/master/sketchnotes/5-voorhoede.md)
 5. [Schiphol](https://github.com/jamalvr/weekly-nerd/blob/master/sketchnotes/6-schiphol.md)
 6. [Bluetooth](https://github.com/jamalvr/weekly-nerd/blob/master/sketchnotes/7-bluetooth.md)
