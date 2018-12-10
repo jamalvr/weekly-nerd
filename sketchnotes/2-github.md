@@ -1,3 +1,3 @@
 # 2: Sketchnotes
 
-[Sketchnotes](img/GitHub.jpg)
+![Sketchnotes](img/GitHub.jpg)

@@ -1,3 +1,3 @@
 # 5: De Voorhoede
 
-[Voorhoede](img/Voorhoede.jpg)
+![Voorhoede](img/Voorhoede.jpg)

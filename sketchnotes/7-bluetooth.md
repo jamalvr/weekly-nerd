@@ -1,3 +1,3 @@
 # 7: Bluetooth
 
-[Bluetooth](img/Bluetooth.jpg)
+![Bluetooth](img/Bluetooth.jpg)
