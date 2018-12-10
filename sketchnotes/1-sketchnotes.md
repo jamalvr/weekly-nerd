@@ -1,3 +1,3 @@
 # 1: Sketchnotes
 
-[Sketchnotes](img/Sketchnotes.jpg)
+![Sketchnotes](img/Sketchnotes.jpg)
